@@ -100,3 +100,4 @@ func main() {
 
 	BuildPlot(coords, fns, float32(0.1), slice_length+1)
 }
+
